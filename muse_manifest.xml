@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496117561859">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3925112473" ref="index"/>
+    <file name="nomq_index.css" crc="432233921" ref="index"/>
+    <file name="information.css" crc="3848916027" ref="information"/>
+    <file name="nomq_information.css" crc="4063502720" ref="information"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:information"/>
+    <file name="museutils.js" crc="163421577" ref="index:information"/>
+    <file name="whatinput.js" crc="86476730" ref="index:information"/>
+    <file name="museconfig.js" crc="168988563" ref="index:information"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:information"/>
+    <file name="require.js" crc="244322403" ref="index:information"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:information"/>
+  </folder>
+  <folder name="images">
+    <file name="blue-splash_-_copy.png" crc="4104065812" seo="true" ref="index"/>
+    <file name="u94-4.png" crc="3834159127" ref="index"/>
+    <file name="u135-4.png" crc="138568197" ref="index"/>
+    <file name="u128-4.png" crc="8812956" ref="index"/>
+    <file name="rink.jpg" crc="35402832" seo="true" ref="information"/>
+    <file name="u171-4.png" crc="523291136" ref="information"/>
+    <file name="basketball.jpg" crc="91625701" seo="true" ref="information"/>
+    <file name="u212-60.png" crc="287384230" ref="information"/>
+    <file name="83kpcfi.jpg" crc="4119052597" seo="true" ref="information"/>
+    <file name="nba_national_basketball_association_basketball_81187_300x188.jpg" crc="66544598" seo="true" ref="information"/>
+    <file name="u171-42.png" crc="4065218168" ref="information"/>
+    <file name="u212-602.png" crc="31923294" ref="information"/>
+    <file name="rink667x417.jpg" crc="62149938" seo="true" ref="information"/>
+    <file name="u171-43.png" crc="4066214063" ref="information"/>
+    <file name="u212-603.png" crc="4232724534" ref="information"/>
+    <file name="83kpcfi694x390.jpg" crc="3869778492" seo="true" ref="information"/>
+    <file name="blank.gif" crc="4208392903" ref="index:information"/>
+    <file name="rink897x561.jpg" crc="4283510912" seo="true" ref="information"/>
+    <file name="u171-44.png" crc="4243527103" ref="information"/>
+    <file name="u212-604.png" crc="300889727" ref="information"/>
+    <file name="u94-42.png" crc="54487771" ref="index"/>
+    <file name="u135-42.png" crc="3816240184" ref="index"/>
+    <file name="u128-42.png" crc="38277079" ref="index"/>
+    <file name="blue-splash_-_copy322x125.png" crc="4104065812" seo="true" ref="index"/>
+    <file name="u94-43.png" crc="4014079347" ref="index"/>
+    <file name="u128-43.png" crc="418564932" ref="index"/>
+    <file name="u135-43.png" crc="4083924059" ref="index"/>
+    <file name="blue-splash_-_copy299x116.png" crc="2058712" seo="true" ref="index"/>
+    <file name="u94-44.png" crc="64968745" ref="index"/>
+    <file name="u128-44.png" crc="3874318417" ref="index"/>
+    <file name="u135-44.png" crc="3860181551" ref="index"/>
+    <file name="u139-8.png" crc="98969328" ref="information"/>
+    <file name="u139-82.png" crc="3870185263" ref="information"/>
+    <file name="u139-83.png" crc="4264851362" ref="information"/>
+    <file name="u139-84.png" crc="30284518" ref="information"/>
+    <file name="u251-171.png" crc="4055427241" ref="information"/>
+    <file name="u251-1712.png" crc="3957985264" ref="information"/>
+    <file name="u251-1713.png" crc="441749096" ref="information"/>
+    <file name="u251-1714.png" crc="320470438" ref="information"/>
+    <file name="u1573-82.png" crc="3795593848" ref="information"/>
+    <file name="u1573-822.png" crc="143282115" ref="information"/>
+    <file name="u1573-823.png" crc="363275047" ref="information"/>
+    <file name="u1573-824.png" crc="509895881" ref="information"/>
+  </folder>
+  <file name="index.html" crc="4247358973" seo="true" mt="1496117000311" redirect="true"/>
+  <file name="information.html" crc="3782962204" seo="true" mt="1496117561348" redirect="true"/>
+</manifest>
