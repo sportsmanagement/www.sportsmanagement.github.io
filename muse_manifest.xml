@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1500327394891">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1500327576683">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3787862956" ref="index"/>
-    <file name="nomq_index.css" crc="3767972033" ref="index"/>
+    <file name="index.css" crc="274409679" ref="index"/>
+    <file name="nomq_index.css" crc="4076489605" ref="index"/>
     <file name="information.css" crc="327720573" ref="information"/>
     <file name="nomq_information.css" crc="24426141" ref="information"/>
   </folder>
@@ -60,6 +60,6 @@
     <file name="u1573-823.png" crc="4181745614" ref="information"/>
     <file name="u1573-824.png" crc="211228956" ref="information"/>
   </folder>
-  <file name="index.html" crc="162960016" seo="true" mt="1500327373178" redirect="true"/>
+  <file name="index.html" crc="203833931" seo="true" mt="1500327564058" redirect="true"/>
   <file name="information.html" crc="135436596" seo="true" mt="1500327394260" redirect="true"/>
 </manifest>
