@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496117561859">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1500327394891">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3925112473" ref="index"/>
-    <file name="nomq_index.css" crc="432233921" ref="index"/>
-    <file name="information.css" crc="3848916027" ref="information"/>
-    <file name="nomq_information.css" crc="4063502720" ref="information"/>
+    <file name="index.css" crc="3787862956" ref="index"/>
+    <file name="nomq_index.css" crc="3767972033" ref="index"/>
+    <file name="information.css" crc="327720573" ref="information"/>
+    <file name="nomq_information.css" crc="24426141" ref="information"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:information"/>
@@ -17,49 +17,49 @@
   </folder>
   <folder name="images">
     <file name="blue-splash_-_copy.png" crc="4104065812" seo="true" ref="index"/>
-    <file name="u94-4.png" crc="3834159127" ref="index"/>
-    <file name="u135-4.png" crc="138568197" ref="index"/>
+    <file name="u94-4.png" crc="3905353398" ref="index"/>
+    <file name="u135-4.png" crc="269187554" ref="index"/>
     <file name="u128-4.png" crc="8812956" ref="index"/>
     <file name="rink.jpg" crc="35402832" seo="true" ref="information"/>
-    <file name="u171-4.png" crc="523291136" ref="information"/>
+    <file name="u171-4.png" crc="304069999" ref="information"/>
     <file name="basketball.jpg" crc="91625701" seo="true" ref="information"/>
-    <file name="u212-60.png" crc="287384230" ref="information"/>
+    <file name="u212-60.png" crc="3954114509" ref="information"/>
     <file name="83kpcfi.jpg" crc="4119052597" seo="true" ref="information"/>
     <file name="nba_national_basketball_association_basketball_81187_300x188.jpg" crc="66544598" seo="true" ref="information"/>
-    <file name="u171-42.png" crc="4065218168" ref="information"/>
-    <file name="u212-602.png" crc="31923294" ref="information"/>
+    <file name="u171-42.png" crc="470126450" ref="information"/>
+    <file name="u212-602.png" crc="426820461" ref="information"/>
     <file name="rink667x417.jpg" crc="62149938" seo="true" ref="information"/>
-    <file name="u171-43.png" crc="4066214063" ref="information"/>
-    <file name="u212-603.png" crc="4232724534" ref="information"/>
+    <file name="u171-43.png" crc="3836574105" ref="information"/>
+    <file name="u212-603.png" crc="507621656" ref="information"/>
     <file name="83kpcfi694x390.jpg" crc="3869778492" seo="true" ref="information"/>
     <file name="blank.gif" crc="4208392903" ref="index:information"/>
     <file name="rink897x561.jpg" crc="4283510912" seo="true" ref="information"/>
-    <file name="u171-44.png" crc="4243527103" ref="information"/>
-    <file name="u212-604.png" crc="300889727" ref="information"/>
-    <file name="u94-42.png" crc="54487771" ref="index"/>
-    <file name="u135-42.png" crc="3816240184" ref="index"/>
+    <file name="u171-44.png" crc="507064718" ref="information"/>
+    <file name="u212-604.png" crc="4269601648" ref="information"/>
+    <file name="u94-42.png" crc="306993046" ref="index"/>
+    <file name="u135-42.png" crc="4216683704" ref="index"/>
     <file name="u128-42.png" crc="38277079" ref="index"/>
     <file name="blue-splash_-_copy322x125.png" crc="4104065812" seo="true" ref="index"/>
-    <file name="u94-43.png" crc="4014079347" ref="index"/>
+    <file name="u94-43.png" crc="248013134" ref="index"/>
     <file name="u128-43.png" crc="418564932" ref="index"/>
-    <file name="u135-43.png" crc="4083924059" ref="index"/>
+    <file name="u135-43.png" crc="4246135041" ref="index"/>
     <file name="blue-splash_-_copy299x116.png" crc="2058712" seo="true" ref="index"/>
-    <file name="u94-44.png" crc="64968745" ref="index"/>
+    <file name="u94-44.png" crc="3858817661" ref="index"/>
     <file name="u128-44.png" crc="3874318417" ref="index"/>
-    <file name="u135-44.png" crc="3860181551" ref="index"/>
-    <file name="u139-8.png" crc="98969328" ref="information"/>
-    <file name="u139-82.png" crc="3870185263" ref="information"/>
-    <file name="u139-83.png" crc="4264851362" ref="information"/>
-    <file name="u139-84.png" crc="30284518" ref="information"/>
-    <file name="u251-171.png" crc="4055427241" ref="information"/>
-    <file name="u251-1712.png" crc="3957985264" ref="information"/>
-    <file name="u251-1713.png" crc="441749096" ref="information"/>
-    <file name="u251-1714.png" crc="320470438" ref="information"/>
-    <file name="u1573-82.png" crc="3795593848" ref="information"/>
-    <file name="u1573-822.png" crc="143282115" ref="information"/>
-    <file name="u1573-823.png" crc="363275047" ref="information"/>
-    <file name="u1573-824.png" crc="509895881" ref="information"/>
+    <file name="u135-44.png" crc="496478221" ref="index"/>
+    <file name="u139-8.png" crc="81818416" ref="information"/>
+    <file name="u139-82.png" crc="4112610598" ref="information"/>
+    <file name="u139-83.png" crc="297997073" ref="information"/>
+    <file name="u139-84.png" crc="31891617" ref="information"/>
+    <file name="u251-171.png" crc="4143162173" ref="information"/>
+    <file name="u251-1712.png" crc="3802410693" ref="information"/>
+    <file name="u251-1713.png" crc="509324644" ref="information"/>
+    <file name="u251-1714.png" crc="332296575" ref="information"/>
+    <file name="u1573-82.png" crc="3858020958" ref="information"/>
+    <file name="u1573-822.png" crc="3986791267" ref="information"/>
+    <file name="u1573-823.png" crc="4181745614" ref="information"/>
+    <file name="u1573-824.png" crc="211228956" ref="information"/>
   </folder>
-  <file name="index.html" crc="4247358973" seo="true" mt="1496117000311" redirect="true"/>
-  <file name="information.html" crc="3782962204" seo="true" mt="1496117561348" redirect="true"/>
+  <file name="index.html" crc="162960016" seo="true" mt="1500327373178" redirect="true"/>
+  <file name="information.html" crc="135436596" seo="true" mt="1500327394260" redirect="true"/>
 </manifest>
